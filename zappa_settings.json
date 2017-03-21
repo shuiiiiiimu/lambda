@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "drawing.app",
+        "s3_bucket": "lambda.bukit.design",
+        "debug": true,
+        "log_level": "DEBUG"
+    }
+}
