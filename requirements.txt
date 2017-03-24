@@ -1,3 +1,5 @@
 zappa
 flask
 scrapy
+redis
+celery
